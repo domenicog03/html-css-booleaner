@@ -1,0 +1,61 @@
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #4da0fe;
+    background-image: url('img/pattern.png');
+    background-size: 360px;
+    padding-top: 60px;
+}
+.logo {
+    height: 60px;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+h3 {
+    color: #989898;
+}
+
+.author {
+    color: #808080;
+}
+
+.author-credit {
+    font-size: 18px;
+}
+
+.author-link {
+    color: #4da0fe;
+    text-decoration: none;
+}
+
+.article-photos {
+    margin-top: 20px;
+}
+
+.photo-caption {
+    font-size: 14px;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: left;
+}
+
+thead {
+    background-color: #1faae5;
+    color: #ffffff;
+}
+
+.table-row {
+    background-color: #b0e4f2;
+}
+
+.cell-bigger {
+    width: 50%;
+}
